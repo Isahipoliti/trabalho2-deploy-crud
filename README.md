@@ -1,8 +1,8 @@
 # Trabalho 2 — Deploy automático em VM
 
 ## Integrantes
-- Nome completo do(a) aluno(a) 1: **PREENCHER**
-- Nome completo do(a) aluno(a) 2: **PREENCHER**
+Eduardo Vieira Martins da Silva
+Isabelly Hipoliti Lucantonio
 
 ## Aplicação
 CRUD de produtos com PHP 8.2, MySQL 8, Docker, Docker Compose e GitHub Actions.
